@@ -1,4 +1,4 @@
-- 👋 Hi, We are @devcadotio!
+- 👋 Hi, we are @devcadotio!
 - 👀 We are always interested in getting to know new people in the development Industry
 - 📫 How to reach us: @devca_io on Telegram | luca@devca.io 
 - 😄 Pronouns: they/them
