@@ -9,13 +9,16 @@
   <br>
   <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,bots,discordjs,express,git,go,html,htmx,js,laravel,materialui,mongodb,mysql,nextjs,nginx,nodejs,npm,nuxtjs,php,pnpm,prisma,py,react,redux,remix,sass,sqlite,tailwind,ts,vite,vue,wasm" />
   <br>
+  <br>
   <a>Tools</a>
   <br>
   <img src="https://skillicons.dev/icons?i=atom,figma,git,obsidian,ps,phpstorm,pycharm,sublime,visualstudio,vscode,vscodium,webstorm" />
   <br>
+  <br>
   <a>Operating Systems</a>
   <br>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <br>
   <br>
   <a>Platforms</a>
   <br>
