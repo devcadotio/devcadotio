@@ -4,7 +4,7 @@
 
 📫 How to reach us: [@devca_io on Telegram](https://t.me/devca_io) | [luca@devca.io](mailto:luca@devca.io)
 
-<p align="center">
+<p>
   <a>Technologies</a>
   <br>
   <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,bots,discordjs,express,git,go,html,htmx,js,laravel,materialui,mongodb,mysql,nextjs,nginx,nodejs,npm,nuxtjs,php,pnpm,prisma,py,react,redux,remix,sass,sqlite,tailwind,ts,vite,vue,wasm" />
